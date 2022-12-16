@@ -6,7 +6,7 @@ PhD Student in Computer Engineering at University of Pittsburgh
 #### 📫 How to reach me:
 - https://www.linkedin.com/in/evm9/ 👋
 - https://scholar.google.com/citations?hl=en&user=Qx3TAbkAAAAJ
-- 💬 Ask me about science, philosophy, programming, comic books, anything nerd stuff
+- 💬 Ask me about science, programming, philosophy, comic books, anything you like
 ##
 
 ### Research Code
