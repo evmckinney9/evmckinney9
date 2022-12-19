@@ -1,7 +1,5 @@
 ### About Me
-#### Evan McKinney 🧙
-
-PhD Student in Computer Engineering at University of Pittsburgh
+PhD Student in Computer Engineering at University of Pittsburgh🧙
 
 #### 📫 How to reach me:
 - https://www.linkedin.com/in/evm9/ 👋
