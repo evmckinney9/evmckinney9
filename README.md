@@ -50,7 +50,7 @@ If my code looks bad it's because I'm trying to learn new things :)
 #### maury-bot
 🚣🌊🌀🤖💻⚙️📊
 - https://github.com/evmckinney9/maury-bot
-- Discord Bot connected to Chat GPT-3 API
+- Discord Bot connected to ChatGPT API
 - Select from set of personas
 - Chat reactions triggered by custom emote reactions
 
