@@ -34,7 +34,7 @@ I love programming (particularly in Python)
 
 #### slam_decomposition ⚗️🤯
 - https://github.com/Pitt-JonesLab/slam_decomposition
-- Numerically optmiized gate decompositions custom library
+- Numerically optmized gate decompositions custom library
 - Qiskit, monodromy, scipy
 
 
