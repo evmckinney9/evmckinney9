@@ -2,7 +2,7 @@
 PhD Student in Computer Engineering at University of Pittsburgh🧙
 
 #### 📫 How to reach me:
-- [evm9.dev](https://evm9.dev/) (WIP)
+- [evm9.dev](https://evm9.dev/) (WIP) 🦹
 - https://www.linkedin.com/in/evm9/ 👋
 - https://scholar.google.com/citations?hl=en&user=Qx3TAbkAAAAJ 💬
 ```python
