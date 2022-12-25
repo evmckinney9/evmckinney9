@@ -15,8 +15,8 @@ print(f"ev{lastname}{86//9}@gmail.com")
   -  Gate Decomposition Theory, Weyl Chambers (?!)
   -  Superconducting QC Architecture 
  
-#### I’m currently working on quantum computing hardware-software co-design with Dr. Alex K. Jones and Dr. Michael Hatridge
-  - In my second year at Pitt 🔭
+ #### I’m currently in my second year of grad school at Pitt
+  - Quantum computing hardware-software co-design with Dr. Alex K. Jones and Dr. Michael Hatridge
   - SNAIL qubit coupling topologies for increased quantum circuit parllelization, reduced data movement overheads
   - Optimized Hamiltonians using operational speedlimits and expected gate decomposition costs
 
@@ -34,14 +34,13 @@ I love programming (particularly in Python)
 
 #### slam_decomposition ⚗️🤯
 - https://github.com/Pitt-JonesLab/slam_decomposition
-- Numerically optmiized gate decompositions
-- Qiskit
+- Numerically optmiized gate decompositions custom library
+- Qiskit, monodromy, scipy
 
 
 #### clonk_transpilation 🔧🤯
 - https://github.com/Pitt-JonesLab/clonk_transpilation
-- Topology backend benchmarks
-- Qiskit
+- Topology backend benchmarks in Qiskit
 
 ##
 
