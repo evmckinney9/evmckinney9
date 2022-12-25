@@ -32,7 +32,7 @@ If my code looks bad it's because I'm trying to learn new things :)
 - Select from set of personas
 - Chat reactions triggered by custom emote reactions
 
-#### Watchaway
+#### watchaway
 - https://github.com/evmckinney9/watchaway
 - App used to rate movies with friends
 - Use to pick what to watch, based on what your friends want you to see
