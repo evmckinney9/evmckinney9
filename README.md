@@ -41,4 +41,6 @@ If my code looks bad it's because I'm trying to learn new things :)
 - Supports integration with maury-bot!
 
 #### Google Home, Stereo Sync
-- 
+🤖💻📡🔊
+- Automatically synchronize non-smart sound stereo power to Google Chromecast TV
+- NodeMCU -> Adafruit IO -> IFTTT -> Google Home Routines
