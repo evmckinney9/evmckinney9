@@ -18,7 +18,7 @@ print(f"ev{lastname}{86//9}@gmail.com")
  #### I’m currently in my second year of grad school at Pitt
   - Quantum computing hardware-software co-design with Dr. Alex K. Jones and Dr. Michael Hatridge
   - SNAIL qubit coupling topologies for increased quantum circuit parllelization, reduced data movement overheads
-  - Optimized Hamiltonians using operational speedlimits and expected gate decomposition costs
+  - Hamiltonian design-space exploration using operational speedlimits and expected gate decomposition costs
 
 #### Previously, I've been at
   - Los Alamos National Laboratory
@@ -28,13 +28,13 @@ print(f"ev{lastname}{86//9}@gmail.com")
 <hr>
 
 ### Research Code
-I love programming (particularly in Python)
+I love programming (particularly, Python 🐍)
 - https://github.com/Pitt-JonesLab
 - https://github.com/PITT-HATLAB
 
 #### slam_decomposition ⚗️🤯
 - https://github.com/Pitt-JonesLab/slam_decomposition
-- Numerically optmized gate decompositions custom library
+- Custom numerically optmized quantum gate decompositions library
 - Qiskit, monodromy, scipy
 
 
