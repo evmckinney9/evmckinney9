@@ -1,25 +1,46 @@
-### About Me
+### About
 PhD Student in Computer Engineering at University of Pittsburgh🧙
 
 #### 📫 How to reach me:
+```python
+lastname = input()
+print(f"ev{lastname}{86//9}@gmail.com")
+```
 - https://www.linkedin.com/in/evm9/ 👋
-- https://scholar.google.com/citations?hl=en&user=Qx3TAbkAAAAJ
-- Ask me about science, programming, grad school, philosophy, comic books, anything you like 💬
+- https://scholar.google.com/citations?hl=en&user=Qx3TAbkAAAAJ 💬
+- Message me about science, programming, grad school, philosophy, comic books, anything you like 💬
+#### I love learning about Quantum Computing and things Machine-Learning, Scientific Programming 📖
+  -  Quantum Transpilation, Efficient Quantum Instruction Sets
+  -  Gate Decomposition Theory
+  -  Superconducting QC Architecture  
+  -  Weyl Chambers (?!)
+ 
+#### I’m currently working on Quantum Computing Hardware-Software Co-Design with Dr. Alex K. Jones and Dr. Michael Hatridge in my second year at Pitt. 🔭
+  - SNAIL qubit coupling topologies for increased quantum circuit parllelization, reduced data movement overheads
+  - Optimized Hamiltonians using operational speedlimits and expected gate decomposition costs
+
+#### Previously, I've been at
+  - Los Alamos National Laboratory
+  - Ames National Laboratory
+  - Iowa State University
 
 <hr>
 
 ### Research Code
-- 📖 I'm currently learning about Quantum Compilation, Efficient Quantum Instruction Sets, Quantum Resource Theory
-- 🔭 I’m currently working on Quantum Computing Hardware-Software Co-Design
+I love programming (particularly in Python)
+- https://github.com/Pitt-JonesLab
+- https://github.com/PITT-HATLAB
 
-We research the design of quantum computers for efficient and reliable operation. Our main contributions are the design of qubit coupling topologies which allow for a reduction in data movement and an optimized selection of quantum instruction sets based on hardware speed limitations. Our designs utilize Superconducting Nonlinear Asymmetric Inductive eLement (SNAIL) modulators to enable high-degree couplings between qubits which support parallelized quantum circuit execution. This research has the potential to improve the performance and reliability of quantum computers, especially for scaling devices past the NISQ-era.
+#### slam_decomposition ⚗️🤯
+- https://github.com/Pitt-JonesLab/slam_decomposition
+- Numerically optmiized gate decompositions
+- Qiskit
 
-slam_decomposition
-https://github.com/Pitt-JonesLab/slam_decomposition
 
-
-clonk_transpilation
-https://github.com/Pitt-JonesLab/clonk_transpilation
+#### clonk_transpilation 🔧🤯
+- https://github.com/Pitt-JonesLab/clonk_transpilation
+- Topology backend benchmarks
+- Qiskit
 
 ##
 
@@ -43,5 +64,6 @@ If my code looks bad it's because I'm trying to learn new things :)
 #### Google Home, Stereo Sync
 🤖💻📡🔊
 - [https://gist.evmckinney9/google_home_stereo_link.md](https://gist.github.com/evmckinney9/54829af7c582193a8480db0757bc047e)
+- Because nobody likes getting up to press a button when you're already comfortable on the couch
 - Automatically synchronize non-smart sound stereo power to Google Chromecast TV
 - NodeMCU -> Adafruit IO -> IFTTT -> Google Home Routines
