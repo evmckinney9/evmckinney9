@@ -62,6 +62,7 @@ If my code looks bad it's because I'm trying to learn new things :)
 - Supports integration with maury-bot!
 
 #### Github Page Portfolio
+💼 :octocat:
 - https://github.com/evmckinney9/evmckinney9.github.io
 - Javacript n00b
 
