@@ -28,7 +28,7 @@ print(f"ev{lastname}{86//9}@gmail.com")
 <hr>
 
 ### Research Code
-I love programming (particularly, Python 🐍)
+I love programming (Python 🐍, Java, C, VHDL)
 - https://github.com/Pitt-JonesLab
 - https://github.com/PITT-HATLAB
 
