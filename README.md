@@ -7,7 +7,7 @@ PhD Student in Computer Engineering at University of Pittsburgh🧙
 - https://scholar.google.com/citations?hl=en&user=Qx3TAbkAAAAJ 💬
 ```python
 lastname = input()
-print(f"ev{lastname}{86//9}@gmail.com")
+print(f"ev{lastname.lower()}{86//9}@gmail.com")
 ```
 - Message me about science, programming, grad school, philosophy, comic books, anything you like 💬
 #### I love learning about Quantum Computing and things Machine-Learning, Scientific Programming 📖
