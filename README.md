@@ -1,5 +1,12 @@
-### About
+## About
 PhD Student in Computer Engineering at University of Pittsburgh🧙
+
+### Table of Contents
+- [About](#about)
+- [Research Code](#research-code)
+- [Fun Code](#fun-code)
+
+___
 
 #### 📫 How to reach me:
 - [evm9.dev](https://evm9.dev/) (WIP) 🦹
@@ -24,10 +31,8 @@ print(f"ev{lastname.lower()}{86//9}@gmail.com")
   - Los Alamos National Laboratory
   - Ames National Laboratory
   - Iowa State University 💛❤️
-
-<hr>
-
-### Research Code
+___
+## Research Code
 I love programming (Python 🐍, Java, C, VHDL)
 - https://github.com/Pitt-JonesLab
 - https://github.com/PITT-HATLAB
@@ -42,11 +47,11 @@ I love programming (Python 🐍, Java, C, VHDL)
 - https://github.com/Pitt-JonesLab/clonk_transpilation
 - Topology backend benchmarks in Qiskit
 
-##
-
-### Fun Code
+___
+## Fun Code
 If my code looks bad it's because I'm trying to learn new things :)
 
+### ML/(ChatGPT)
 #### maury-bot
 🚣🌊🌀🤖💻⚙️📊
 - https://github.com/evmckinney9/maury-bot
@@ -54,6 +59,18 @@ If my code looks bad it's because I'm trying to learn new things :)
 - Select from set of personas
 - Chat reactions triggered by custom emote reactions
 
+#### negotiator-bots
+- https://github.com/evmckinney9/negotiator-bots
+- evaluate automated negotiation strategies using language models
+
+#### ChatGPT Ouroboros
+- Self-replicating code (?)
+
+#### adversarial-face-evasion
+- https://github.com/evmckinney9/adversarial-face-evasion
+- NN Classification, adversarial inputs
+
+### Web Apss
 #### watchaway
 🎥📲🔍⭐️📜👀🎬
 - https://github.com/evmckinney9/watchaway
@@ -66,6 +83,9 @@ If my code looks bad it's because I'm trying to learn new things :)
 - https://github.com/evmckinney9/evmckinney9.github.io
 - Javacript n00b
 
+
+### IoT
+
 #### Google Home, Stereo Sync
 🤖💻📡🔊
 - [https://gist.evmckinney9/google_home_stereo_link.md](https://gist.github.com/evmckinney9/54829af7c582193a8480db0757bc047e)
@@ -73,6 +93,10 @@ If my code looks bad it's because I'm trying to learn new things :)
 - Automatically synchronize non-smart sound stereo power to Google Chromecast TV
 - NodeMCU -> Adafruit IO -> IFTTT -> Google Home Routines
 
-<hr>
+#### Minecraft Map Config Tool
+- https://github.com/evmckinney9/Minecraft-Server-Auto-Map-Config-Tool
+- Python and shell scripts to automatically configure Minecraft server maps
+
+___
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevmckinney9&label=visitors&countColor=%232ccce4&style=plastic) <-- Almost entirely myself
