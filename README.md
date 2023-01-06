@@ -2,9 +2,8 @@
 PhD Student in Computer Engineering at University of Pittsburgh🧙
 
 ### Table of Contents
-- [About](#about)
-- [Research Code](#research-code)
-- [Fun Code](#fun-code)
+| - [About](#about)<br>- [Research Code](#research-code)<br>- [Fun Code](#fun-code) | ![image](https://user-images.githubusercontent.com/47376937/210914205-abf0b2a1-07e0-4219-9398-89731d5f7623.png) |
+| :--- | --- |
 
 ___
 
