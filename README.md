@@ -15,7 +15,7 @@ ___
 lastname = input()
 print(f"ev{lastname.lower()}{86//9}@gmail.com")
 ```
-- Message me about science, programming, grad school, philosophy, comic books, anything you like 💬
+- Message me about science, programming, grad school, math, philosophy, comic books, anything you like 💬
 #### I love learning about Quantum Computing and things Machine-Learning, Scientific Programming 📖
   -  Quantum Transpilation, Efficient Quantum Instruction Sets
   -  Gate Decomposition Theory, Weyl Chambers (?!)
