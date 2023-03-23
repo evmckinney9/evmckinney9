@@ -10,8 +10,8 @@ print(f"ev{lastname.lower()}{86//9}@gmail.com")
 
 - [evm9.dev](https://evm9.dev/) (WIP) 🦹
 - https://www.linkedin.com/in/evm9/ 👋
-  > Message me about science, programming, grad school, math, philosophy, comic books, anything you like 💬
 - https://scholar.google.com/citations?hl=en&user=Qx3TAbkAAAAJ 💬
+> Message me about science, programming, grad school, math, philosophy, comic books, anything you like 💬
 
 
 #### I love learning about Quantum Computing and things Machine-Learning, Scientific Programming 📖
