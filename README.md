@@ -15,7 +15,7 @@ print(f"ev{lastname.lower()}{86//9}@gmail.com")
 
 
 #### I love learning about Quantum Computing and things Machine-Learning, Scientific Programming 📖
-  - I love programming (Python 🐍, Java, C, VHDL)
+  - Python 🐍, Java, C, VHDL
   -  Quantum Transpilation, Efficient Quantum Instruction Sets
   -  Gate Decomposition Theory, Weyl Chambers (?!)
   -  Superconducting QC Architecture 
