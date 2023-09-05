@@ -1,6 +1,4 @@
-## Hello 🦖
-PhD Student in Computer Engineering at University of Pittsburgh 🧙
-___
+## Hello 🧙🦖
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevmckinney9&label=visitors&countColor=%232ccce4&style=plastic) <-- Almost entirely myself
 
