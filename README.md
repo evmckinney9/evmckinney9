@@ -28,6 +28,6 @@
 
 <!-- Visitor Count -->
 <p align="center">
-  🚀 Visitors 🚀<br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevmckinney9&label=visitors&countColor=%232ccce4&style=flat-square" alt="Visitors badge"/>
+  🛵 Visitors 🧋<br>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fevmckinney9&label=visitors&countColor=%232ccce4" alt="Visitors badge"/>
 </p>
