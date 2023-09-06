@@ -1,4 +1,4 @@
-<h1 align="center">🧙‍♂️ Hello 🦖</h1>
+<h1 align="center">🛵🧙‍♂️ Hello 🧋🦖</h1>
 
 <!-- Image Banner -->
 <p align="center">
@@ -25,9 +25,3 @@
     </td>
   </tr>
 </table>
-
-<!-- Visitor Count -->
-<p align="center">
-  🛵 Visitors 🧋<br>
-  <img src="https://api.visitorbadge.io/api/visitors?path=evmckinney9&countColor=%232ccce4&style=plastic&labelStyle=lower"/>
-</p>
