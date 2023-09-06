@@ -25,9 +25,3 @@
     </td>
   </tr>
 </table>
-
-<!-- Image Banner -->
-<p align="center">
-  <img src="https://github.com/evmckinney9/evmckinney9/assets/47376937/f4b45394-8c99-4448-90a4-c3a9571e3970" alt="Your Banner Image" width="800"/>
-  <img src="https://github.com/evmckinney9/evmckinney9/assets/47376937/b6422627-a730-4e82-ad40-00707ae2d186" alt="Your Banner Image" width="800"/>
-</p>
