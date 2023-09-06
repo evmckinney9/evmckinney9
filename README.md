@@ -1,30 +1,30 @@
 <h1 align="center">🧙‍♂️ Hello 🦖</h1>
 
 <p align="center">
-  <img src="https://github.com/evmckinney9/evmckinney9/assets/47376937/50cbf5ec-1cc7-4e29-997f-8c9a23a40b86" alt="Your Banner Image" width="600"/>
+  <img src="https://github.com/evmckinney9/evmckinney9/assets/47376937/50cbf5ec-1cc7-4e29-997f-8c9a23a40b86" alt="Your Banner Image" width="800"/>
 </p>
 
+<table width="800" align="center">
+  <tr>
+    <!-- Left column for Organizations and Logos -->
+    <td width="160" align="center">
+      <a href="https://github.com/orgs/Pitt-JonesLab">
+        <img src="https://avatars.githubusercontent.com/u/119879854?s=200&v=4" alt="Jones Lab" width="80"/><br>
+        <strong>Jones Lab</strong>
+      </a><br><br>
+      <a href="https://github.com/PITT-HATLAB">
+        <img src="https://avatars.githubusercontent.com/u/83972661?s=200&v=4" alt="Hatlab" width="80"/><br>
+        <strong>Hatlab</strong>
+      </a>
+    </td>
+    <!-- Right column for Stats Widget -->
+    <td width="620" align="center">
+      <img src="https://streak-stats.demolab.com?user=evmckinney9&theme=leafy&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">🔬 Find Me At 🔭</h3>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://github.com/orgs/Pitt-JonesLab">
-          <img src="https://avatars.githubusercontent.com/u/119879854?s=200&v=4" alt="Jones Lab" width="100"/><br>
-          <strong>Jones Lab</strong>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/PITT-HATLAB">
-          <img src="https://avatars.githubusercontent.com/u/83972661?s=200&v=4" alt="Hatlab" width="100"/><br>
-          <strong>Hatlab</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
+---
 
 <p align="center">
   🚀 Visitors 🚀<br>
