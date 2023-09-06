@@ -1,7 +1,7 @@
-<h1 align="center">🧙‍♂️ Welcome to my GitHub! 🦖</h1>
+<h1 align="center">🧙‍♂️ Hello 🦖</h1>
 
 <p align="center">
-  <img src="https://github.com/evmckinney9/evmckinney9/assets/47376937/50cbf5ec-1cc7-4e29-997f-8c9a23a40b86" alt="Your Banner Image" width="800"/>
+  <img src="https://github.com/evmckinney9/evmckinney9/assets/47376937/50cbf5ec-1cc7-4e29-997f-8c9a23a40b86" alt="Your Banner Image" width="600"/>
 </p>
 
 
