@@ -10,7 +10,7 @@
   <tr>
     <!-- Organizations Column -->
     <td width="160" align="center">
-      <a href="https://github.com/orgs/Pitt-JonesLab">
+      <a href="https://github.com/Pitt-JonesLab">
         <img src="https://avatars.githubusercontent.com/u/119879854?s=200&v=4" alt="Jones Lab" style="width:50%; max-width:80px;"/><br>
         <strong>Jones Lab</strong>
       </a><br><br>
